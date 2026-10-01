@@ -1,5 +1,5 @@
 <!--1. Título principal +  descrição -->
-![Logótipo Player One] (Logo.png)
+(Logo.png)
 # Player One
 A Player One é uma loja online especializada na venda de videojogos, jogos de tabuleiro e acessórios para todo o tipo de jogadores. 
 O nosso objetivo é aproximar as pessoas através do entretenimento, oferecendo as últimas novidades do mercado e clássicos inesquecíveis. 
