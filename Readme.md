@@ -6,7 +6,7 @@ O nosso objetivo é aproximar as pessoas através do entretenimento, oferecendo 
 Aqui encontra tudo o que precisa para elevar a sua experiência de jogo para o próximo nível.
 
 <!--2. e 3. 3 Título de nível 2 e um título de nível 3 -->
-## ## 🛠️ Tecnologias
+## 🛠️ Tecnologias
 Para o desenvolvimento desta plataforma, escolhemos tecnologias web robustas e modernas. O ecossistema assenta na separação clara entre a estrutura de dados, o design visual focado na experiência do utilizador (*UX*) e a programação lógica que controla as ações da loja.
 
 
