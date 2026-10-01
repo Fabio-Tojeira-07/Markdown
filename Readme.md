@@ -63,7 +63,7 @@ CREATE TABLE jogos (
 
 <!-- 9. Link -->
 ## ✍️ Autores
-Este projeto foi desenvolvido por mim. Pode visitar o meu perfil através do [Link para o GitHub](https://github.com).
+Este projeto foi desenvolvido por mim. Pode visitar o meu perfil através do [Link para o GitHub](https://github.com/Fabio-Tojeira-07).
 
 
 <!-- 10. Negrito e itálico -->
