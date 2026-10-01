@@ -7,11 +7,16 @@ Aqui encontra tudo o que precisa para elevar a sua experiência de jogo para o p
 
 <!--2. e 3. 3 Título de nível 2 e um título de nível 3 -->
 ## Tecnologias
+Para o desenvolvimento desta plataforma, escolhemos tecnologias web robustas e modernas. O ecossistema assenta na separação clara entre a estrutura de dados, o design visual focado na experiência do utilizador (*UX*) e a programação lógica que controla as ações da loja.
+
 
 ## Instalação
 ### Passos para executar o projecto
+O processo de execução foi desenhado para ser o mais simples possível, permitindo que qualquer programador coloque a loja online a funcionar em menos de cinco minutos. Recomendamos a utilização do servidor local integrado do **VS Code** (como a extensão *Live Server*) para garantir que todos os caminhos de ficheiros e imagens abrem corretamente sem falhas de carregamento.
 
 ## Categoria de Jogos
+O nosso catálogo foi estruturado meticulosamente para abranger todas as faixas etárias e preferências de entretenimento. Dividimos a loja em secções digitais e analógicas, garantindo que tanto os entusiastas de consolas de última geração como os amantes de serões clássicos em família encontram o produto ideal para os seus momentos de lazer.
+
 
 <!-- 4.Tabela -->
 Tabela
